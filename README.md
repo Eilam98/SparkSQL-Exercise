@@ -25,7 +25,6 @@ This project uses Apache Spark and PySpark SQL to explore and analyze data from 
 
 ## Files
 - `Ex3.ipynb` – Main notebook with all tasks
-- `demo.ipynb` – Additional demonstrations (if included)
 - CSV files – raw data used in the exercises
 
 ## Author
